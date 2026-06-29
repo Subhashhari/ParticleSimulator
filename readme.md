@@ -2,14 +2,6 @@
 
 A high-performance, real-time application for modeling and visualizing complex particle dynamics using a hybrid Java (Frontend) + C++ (Backend) architecture.
 
-**Team:** MYTHilesh
-
-**Members:**
-*   IMT2023085 Vaishak Prasad Bhat 
-*   IMT2023104 Subhash Hari
-*   IMT2023507 Mithilesh Sai Yechuri
-*   IMT2023032 Dhruv Ramesh Joshi
-
 ## 1. Project Overview
 The **Particle System Simulator** is a high-performance, real-time application designed to model and visualize complex particle dynamics. Developed as a comprehensive Software Engineering project, it demonstrates a **Hybrid Client-Server style architecture** where the "Client" (JavaFX Frontend) handles visualization and interaction, while the "Server" (C++ Backend) executes computationally intensive physics integration.
 
